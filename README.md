@@ -1,7 +1,7 @@
 <h1 align="center" >
 Node React Machine 
 </h1>
-<p align="center" >
+<p style="display: flex" >
   <a aria-label="NodeMachine" href="https://twitter.com/cheatmodes4">
     <img src="https://img.shields.io/badge/MADE%20BY%20CheatModes4-000000.svg?style=for-the-badge&logo=Vercel&labelColor=000">
   </a>
