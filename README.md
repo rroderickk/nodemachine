@@ -1,12 +1,12 @@
 <h1 align="center">
 Node React Machine 
 </h1>
-
+<p align="center">
   <a align="center" aria-label="NodeMachine" href="https://twitter.com/cheatmodes4">
     <img src="https://img.shields.io/badge/MADE%20BY%20CheatModes4-000000.svg?style=for-the-badge&logo=Vercel&labelColor=000">
   </a>
 
-<p style="display: flex; flex-direction: row">
+<p align="center">
   <p aria-label="License" href="https://github.com/vercel/next.js/blob/canary/license.md">
     <img alt="" src="https://img.shields.io/npm/l/next.svg?style=for-the-badge&labelColor=000000">
   </p>
@@ -19,6 +19,7 @@ Node React Machine
   <p aria-label="Join the community on GitHub" href="https://github.com/vercel/next.js/discussions">
     <img alt="" src="https://img.shields.io/badge/%20NodeMachine-crimson.svg?style=for-the-badge&logo=Next.js&labelColor=000000&logoWidth=20">
   </p>
+</p>
 </p>
 
 ```sh
