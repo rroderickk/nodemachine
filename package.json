@@ -1,0 +1,20 @@
+{
+  "name": "nodemachine",
+  "version": "0.0.4",
+  "description": "nodemachine generate a reactjs and webpack project very fast",
+  "main": "NODEReactMachine.js",
+  "scripts": {
+    "start": "node NODEReactMachine0.0.4.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/rroderickk/nodemachine"
+  },
+  "keywords": [
+    "nodemachine",
+    "node",
+    "reacjs"
+  ],
+  "author": "cheatmodes4 rroderickk@gmail.com",
+  "license": "MIT"
+}
