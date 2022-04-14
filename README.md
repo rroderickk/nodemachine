@@ -1,10 +1,10 @@
-<h1 align="center" >
+<h1 align="center">
 Node React Machine 
 </h1>
   <a align="center" aria-label="NodeMachine" href="https://twitter.com/cheatmodes4">
     <img src="https://img.shields.io/badge/MADE%20BY%20CheatModes4-000000.svg?style=for-the-badge&logo=Vercel&labelColor=000">
   </a>
-<div align="center" style="display: flex">
+<div style="display: flex">
   <p aria-label="License" href="https://github.com/vercel/next.js/blob/canary/license.md">
     <img alt="" src="https://img.shields.io/npm/l/next.svg?style=for-the-badge&labelColor=000000">
   </p>
