@@ -18,7 +18,8 @@
   </p>
 </p>
 </div>
-```bash
+
+```sh
 $ node NODEReactMachine0.0.4.js
 ```
 > Al ejecutar este archivo con node desde la consola creara un proyecto ReacJs, Webpack y babel.
