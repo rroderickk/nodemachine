@@ -1,6 +1,5 @@
 # Node React Machine 
 <div style="display: flex; gap: 1px; justify-content: center">
-<p align="center">
   <a aria-label="NodeMachine" href="https://twitter.com/cheatmodes4">
     <img src="https://img.shields.io/badge/MADE%20BY%20CheatModes4-000000.svg?style=for-the-badge&logo=Vercel&labelColor=000">
   </a>
@@ -16,7 +15,6 @@
   <p aria-label="Join the community on GitHub" href="https://github.com/vercel/next.js/discussions">
     <img alt="" src="https://img.shields.io/badge/%20NodeMachine-crimson.svg?style=for-the-badge&logo=Next.js&labelColor=000000&logoWidth=20">
   </p>
-</p>
 </div>
 
 ```sh
